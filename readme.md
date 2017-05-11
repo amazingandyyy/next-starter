@@ -1,8 +1,15 @@
 # project starter
 
 ```
-git clone https://github.com/amazingandyyy/project-starter.git
+$ git clone https://github.com/amazingandyyy/project-starter.git
+$ npm i
+$ npm run dev
 ```
+## deploy to your own now server
+```
+now
+```
+
 ## What's sweet
 [no dramas, no webpack, no backend ocde, real server-side rendering]
 
@@ -16,6 +23,13 @@ you will have
 - https all the way
 - auto. deployment + testing
 - enjoy it
+
+## helpful links
+[react](https://facebook.github.io/react/)
+[next](https://github.com/zeit/next.js/)
+[now](https://zeit.co/now)
+[redux](http://redux.js.org/)
+
 
 ## To-do
 please feel free to PR, I will review ASAP
