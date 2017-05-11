@@ -4,6 +4,7 @@
 $ git clone https://github.com/amazingandyyy/project-starter.git
 $ npm i
 $ npm run dev
+-> open browser localhost:3000
 ```
 ## deploy to your own now server
 ```
