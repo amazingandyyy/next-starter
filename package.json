@@ -1,7 +1,7 @@
 {
-  "name": "try-next",
+  "name": "projecttt",
   "version": "1.0.0",
-  "description": "try next",
+  "description": "starter kit for projecttt",
   "scripts": {
     "dev": "next",
     "build": "next build",
