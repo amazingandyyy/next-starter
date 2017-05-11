@@ -19,9 +19,10 @@ you will have
 
 ## To-do
 please feel free to PR, I will review ASAP
-[ ] add redux
-[ ] add GraphQL
-[ ] add apollo-client
+- [ ] add redux
+- [ ] add GraphQL
+- [ ] add apollo-client
+- [ ] you name it!
 
 ## Licence
 MIT
