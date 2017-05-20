@@ -1,4 +1,5 @@
 # next-starter ![travisci][travis]
+A minimalism starter for React+Redux+Next
 
 ## Usage
 ```
@@ -10,11 +11,6 @@ $ npm run dev
 ## deploy to your own now server
 ```
 now
-```
-
-## Testing & linter
-```
-$ npm run test
 ```
 
 ## What's sweet
