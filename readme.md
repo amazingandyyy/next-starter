@@ -1,4 +1,4 @@
-# project starter
+# next starter
 
 ```
 $ git clone https://github.com/amazingandyyy/project-starter.git
@@ -30,7 +30,6 @@ you will have
 [next](https://github.com/zeit/next.js/)
 [now](https://zeit.co/now)
 [redux](http://redux.js.org/)
-
 
 ## To-do
 please feel free to PR, I will review ASAP
