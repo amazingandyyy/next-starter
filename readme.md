@@ -1,14 +1,20 @@
-# next starter
+# next-starter ![travisci][travis]
 
+## Usage
 ```
-$ git clone https://github.com/amazingandyyy/project-starter.git
-$ npm i
+$ git clone https://github.com/amazingandyyy/next-starter.git
+$ yarn
 $ npm run dev
 -> open browser localhost:3000
 ```
 ## deploy to your own now server
 ```
 now
+```
+
+## Testing & linter
+```
+$ npm run test
 ```
 
 ## What's sweet
@@ -43,3 +49,5 @@ MIT
 
 ## Author
 [Amazingandyyy](https://amazingandyyy.github.io)
+
+[travis]: https://travis-ci.org/amazingandyyy/next-starter.svg?branch=master

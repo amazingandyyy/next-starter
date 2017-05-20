@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "precommit": "lint-staged",
+    "lint": "eslint .",
     "test": "lint-staged && eslint ."
   },
   "author": "Amazingandyyy",
@@ -37,7 +38,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "prettier --single-quote --write",
+      "prettier --single-quote --write --use-tabs ./*.js",
       "git add"
     ]
   },
@@ -52,7 +53,8 @@
     "parser": "babel-eslint",
     "rules": {
       "react/react-in-jsx-scope": 0,
-      "no-console": 0
+      "no-console": 0,
+      "react/display-name": 0
     },
     "globals": {
       "React": true
