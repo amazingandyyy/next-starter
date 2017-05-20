@@ -1,7 +1,7 @@
 {
   "name": "next-starter",
-  "version": "1.0.0",
-  "description": "starter kit for projecttt",
+  "version": "1.0.1",
+  "description": "A minimalism starter for React+GraphQL+Next",
   "scripts": {
     "dev": "next",
     "build": "next build",

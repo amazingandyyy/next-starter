@@ -1,5 +1,5 @@
 # next-starter ![travisci][travis]
-A minimalism starter for React+Redux+Next
+A minimalism starter for React+GraphQL+Next
 
 ## Usage
 ```
